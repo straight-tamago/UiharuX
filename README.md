@@ -3,6 +3,8 @@
 
 <kbd><img width="100" alt="icon" src="https://github.com/user-attachments/assets/d23304cf-aa6f-43cd-8c44-c6c66538dfb2"></kbd>
 
+<a href="https://github.com/straight-tamago/UiharuX/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/UiharuX?color=d774d5" /></a>  <a href="https://github.com/straight-tamago/UiharuX/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/UiharuX/total?color=d774d5" /></a>
+
 - App Launcher
 - EdgeLight
 - Fake Dynamic Island
