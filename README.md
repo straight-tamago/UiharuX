@@ -1,4 +1,7 @@
 # UiharuX Beta (TrollStore, No JB)
+### Developer: [@straight-tamago](https://x.com/straight_tamago)
+
+<kbd><img width="100" alt="icon" src="https://github.com/user-attachments/assets/d23304cf-aa6f-43cd-8c44-c6c66538dfb2"></kbd>
 
 - App Launcher
 - EdgeLight
