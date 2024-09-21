@@ -44,4 +44,4 @@ Please use the tool responsibly and ensure you follow all precautions to avoid a
 
 ## Thanks to
 - @khanhduytran0
-- @tyler10290: icon
+- @tyler10290 - icon
